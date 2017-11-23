@@ -1,0 +1,201 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.container{
+	height:600px;
+	margin: 0 auto;
+	padding: 100px 100px;
+	background-color:darkgrey;
+}
+.card{
+	width:901px;
+	height:450px;
+}
+.card-header{
+	padding:0px 0px 0px;
+	width:900px;
+	height:90px;
+	background-color: #fff;
+	border: none;
+}
+.btn-danger{
+	background-color:#b30000;
+	width:50px;
+	font-size:26px;
+}
+.btn-light{
+	color:firebrick;
+	font-size:10px;
+	font-weight: 500;
+	background-color: #fff;
+	border: none;
+}
+.btn-dark{
+	background-color:#3a1326;
+	border:none;
+	width:130px;
+	font-size:9px;
+	font-weight: 500;
+	letter-spacing:2px;
+}
+.fa-search{
+	color:firebrick;
+	margin-top:20px;
+	font-size:12px;
+}
+.navbar-nav{
+	position: absolute;
+	left: 600px;
+	top:-1px;
+}
+.logo{
+	height:90px;
+	width: 300px;
+}
+.card-body{
+	background-color:whitesmoke;
+	width:100%;
+	height:250px;
+	padding:30px 30px;
+}
+.left{
+	margin-left:5px;
+	width:250px;
+	height:250px;
+	border:7px solid #ff751a;
+	background-image:url(image/kids.jpg);
+	background-size:100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.first{
+	color:#fff;
+	text-align: center;
+	font-size:15px;
+	font-weight:700;
+	margin-top:-7px;
+}
+.one{
+	width:100px;
+	margin-top:115px;
+	height:2px;
+	background-color:#fff;
+}
+.two{
+	width:100px;
+	margin-top:5px;
+	height:2px;
+	background-color:#fff;
+	height: 2
+}
+.middle-top{
+	background-image: url(image/serve-01.jpg);
+	background-position: center;
+	background-size:300px 110px;
+	background-repeat: no-repeat;
+	width:250px;
+	height:130px;
+	position: absolute;
+	top:-5px;
+	left:90px;
+	
+}
+.student{
+	margin-top:50px;
+	color:#fff;
+	text-align: center;
+	font-size:15px;
+	font-weight:700;
+}
+.middle-top .one{
+	position: absolute;
+	top:-75px;
+	left:80px;
+	width:100px;
+	height:2px;
+	background-color:#fff;
+}
+.two{
+	width:100px;
+	margin-top:5px;
+	height:2px;
+	background-color:#fff;
+	height: 2;
+}
+.middle-bottom{
+	background-image: url(image/Chapel-Dedication.jpg);
+	background-position: center;
+	background-size:250px 110px;
+	background-repeat: no-repeat;
+	width:250px;
+	height:130px;
+	position: absolute;
+	top: 130px;
+	left:90px;
+}
+.adult{
+	position: absolute;
+	top:40px;
+	left:90px;
+	color:#fff;
+	text-align: center;
+	font-size:15px;
+	font-weight:700;
+}
+.middle-bottom .one{
+	position: absolute;
+	top:-85px;
+	left:70px;
+	width:100px;
+	height:2px;
+	background-color:#fff;
+}
+.middle-bottom .two{
+	width:100px;
+	margin-top:70px;
+	height:2px;
+	background-color:#fff;
+	height: 2;
+}
+.row-right .btn-info{
+	width:240px;
+	margin-left:80px;
+	padding:15px;
+	color: #fff;
+}
+.row-right .btn-default{
+	background-color:#ff751a;
+	border: none;
+	margin-bottom:20px;
+	font-size:12px;
+	font-weight: 100;
+	letter-spacing:1px;
+}
+.orange{
+	color: #fff;
+	display: inline-block;
+}
+.row-right .btn-small{
+	background-color:#b30000;
+	margin-top:10px;
+	font-size:12px;
+	font-weight: 100;
+	border: none;
+}
+.maroon{
+	color:#fff;
+}
+.row-right .btn-lg{
+	background-color:#ffb849;
+	margin-top:40px;
+	font-size:12px;
+	font-weight: 100;
+	border: none;
+}
+.yellow{
+	color: #fff;
+}
+.row-right i{
+	padding-right:10px;
+}
